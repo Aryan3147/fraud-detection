@@ -53,9 +53,6 @@ Detecting fraudulent credit card transactions using supervised machine learning 
 
 ---
 
-## 🔍 Feature Importance (Random Forest)
-
-
 ## 📬 Contact
 
 Created by **Aryan Gaikwad**  

@@ -55,8 +55,6 @@ Detecting fraudulent credit card transactions using supervised machine learning 
 
 ## 🔍 Feature Importance (Random Forest)
 
-```python
-importances = rf.feature_importances_
 
 ## 📬 Contact
 
